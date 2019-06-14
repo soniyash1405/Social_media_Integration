@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LoginHere</string>
+    <string name="facebook_app_id">697945093979433</string>
+    <string name="fb_login_protocol_scheme">fb697945093979433</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation,MissingTranslation" >2lN1LCybPQVF030U1TOdhVpH5</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">Rotn6iC7q39FStKQfZMMVmXjRobnXDPZ2sbGNYlUcmc4OXRMk7</string>
+
+</resources>
